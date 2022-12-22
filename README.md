@@ -2,11 +2,11 @@
 Text editor thats run in a browser. 
 
 # Table of Contents
-1. description[Description]
-2. usage instructions[UsageInstructions]
-3. assigned task[Assigned Task]
-4. technologies[Technologies]
-5. github[Github]
+1. [Description](#description)
+2. [UsageInstructions](#usageinstructions)
+3. [Assigned Task](#assigned-tasks)
+4. [Technologies](#technologies-used)
+5. [Github](#github)
 
 # Description
 A text editor that runs in a browser that displays data persistence. 
